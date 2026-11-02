@@ -1,0 +1,20 @@
+# Python virtual environments
+venv/
+venv312/
+backend/venv/
+backend/venv312/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model cache
+.cache/
+huggingface/
+
+# Local test images
+backend/photo.jpg
+backend/photo1.jpg
+
+# Uploaded test files
+backend/uploads/
